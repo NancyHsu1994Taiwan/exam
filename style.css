@@ -43,7 +43,7 @@
 
 .product-1 {
   width: 792px;
-  height: 416px;
+  max-height: 416px;
   margin-bottom: 40px;
   /* background-image: url(""); */
   /* background-position: center;
@@ -52,7 +52,7 @@
 
 .product-2 {
   width: 588px;
-  height: 416px;
+  max-height: 416px;
   /* background-image: url(""), url(""); */
   /* background-position: center;
   background-size: cover; */
