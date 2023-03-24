@@ -1,0 +1,17 @@
+@media (max-width: 720px) {
+  .product-1,
+  .product-2 {
+    width: 85%;
+    height: 215px;
+    background-position: center;
+    background-size: cover;
+    margin: 24px;
+    overflow: hidden;
+  }
+  .works-pc {
+    display: none;
+  }
+  .works-mobile {
+    display: block;
+  }
+}
